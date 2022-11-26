@@ -1,4 +1,21 @@
 {
+  "CF182660481": {
+    "contest_id": 1764,
+    "language": "GNU C++17",
+    "path": "codeforces\\1764\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Doremy's Perfect Math Class",
+    "problem_url": "https://codeforces.com/contest/1764/problem/B",
+    "submission_id": "CF182660481",
+    "submission_url": "https://codeforces.com/contest/1764/submission/182660481",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Nov/26/2022 19:47"
+  },
   "CF185998309": {
     "contest_id": 1763,
     "language": "GNU C++17",
