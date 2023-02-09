@@ -1,4 +1,24 @@
 {
+  "CF192917726": {
+    "contest_id": 1788,
+    "language": "GNU C++17",
+    "path": "codeforces\\1788\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum of Two Numbers",
+    "problem_url": "https://codeforces.com/contest/1788/problem/B",
+    "submission_id": "CF192917726",
+    "submission_url": "https://codeforces.com/contest/1788/submission/192917726",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "probabilities",
+      "*1100"
+    ],
+    "timestamp": "Feb/09/2023 20:47"
+  },
   "CF192945916": {
     "contest_id": 1788,
     "language": "GNU C++17",
