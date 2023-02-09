@@ -1,4 +1,21 @@
 {
+  "CF192828594": {
+    "contest_id": 1792,
+    "language": "GNU C++17",
+    "path": "codeforces\\1792\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Stand-up Comedian",
+    "problem_url": "https://codeforces.com/contest/1792/problem/B",
+    "submission_id": "CF192828594",
+    "submission_url": "https://codeforces.com/contest/1792/submission/192828594",
+    "tags": [
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/09/2023 12:51"
+  },
   "CF192876528": {
     "contest_id": 1788,
     "language": "GNU C++17",
