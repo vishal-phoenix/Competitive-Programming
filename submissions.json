@@ -1,4 +1,21 @@
 {
+  "CF194086513": {
+    "contest_id": 1793,
+    "language": "GNU C++17",
+    "path": "codeforces\\1793\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fedya and Array",
+    "problem_url": "https://codeforces.com/contest/1793/problem/B",
+    "submission_id": "CF194086513",
+    "submission_url": "https://codeforces.com/contest/1793/submission/194086513",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/18/2023 13:37"
+  },
   "CF194087665": {
     "contest_id": 1793,
     "language": "GNU C++17",
