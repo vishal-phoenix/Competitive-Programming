@@ -12,5 +12,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-2 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++17](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Feb/21/2023 22:26 | 
-1 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [GNU C++17](./codeforces/1790/B.cpp) | `greedy` `greedy` `math` `*800` | Feb/21/2023 21:46 | 
+3 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++17](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Feb/21/2023 22:26 | 
+2 | [B - Taisia and Dice](https://codeforces.com/contest/1790/problem/B) | [GNU C++17](./codeforces/1790/B.cpp) | `greedy` `greedy` `math` `*800` | Feb/21/2023 21:46 | 
+1 | [A - Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | [GNU C++17](./codeforces/1790/A.cpp) | `implementation` `math` `strings` `*800` | Feb/21/2023 21:21 | 
