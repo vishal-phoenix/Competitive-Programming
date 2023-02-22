@@ -641,5 +641,22 @@
       "*1000"
     ],
     "timestamp": "Feb/21/2023 22:26"
+  },
+  "CF194596231": {
+    "contest_id": 1787,
+    "language": "GNU C++17",
+    "path": "codeforces\\1787\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exponential Equation",
+    "problem_url": "https://codeforces.com/contest/1787/problem/A",
+    "submission_id": "CF194596231",
+    "submission_url": "https://codeforces.com/contest/1787/submission/194596231",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/22/2023 22:53"
   }
 }
