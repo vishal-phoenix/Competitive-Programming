@@ -676,6 +676,23 @@
     ],
     "timestamp": "Feb/23/2023 23:36"
   },
+  "CF194824217": {
+    "contest_id": 1781,
+    "language": "GNU C++17",
+    "path": "codeforces\\1781\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parallel Projection",
+    "problem_url": "https://codeforces.com/contest/1781/problem/A",
+    "submission_id": "CF194824217",
+    "submission_url": "https://codeforces.com/contest/1781/submission/194824217",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/24/2023 23:48"
+  },
   "CF194932259": {
     "contest_id": 1789,
     "language": "GNU C++17",
