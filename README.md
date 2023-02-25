@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+40 | [B - Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | [GNU C++17](./codeforces/1789/B.cpp) | `implementation` `strings` | Feb/25/2023 20:13 | 
 39 | [A - Hayato and School](https://codeforces.com/contest/1780/problem/A) | [GNU C++17](./codeforces/1780/A.cpp) | `constructive algorithms` `greedy` `*800` | Feb/23/2023 23:36 | 
 38 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++17](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Feb/22/2023 22:53 | 
 37 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++17](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` `*1000` | Feb/21/2023 22:26 | 
