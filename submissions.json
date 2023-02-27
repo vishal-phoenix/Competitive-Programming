@@ -726,6 +726,24 @@
     ],
     "timestamp": "Feb/25/2023 20:13"
   },
+  "CF195141907": {
+    "contest_id": 1799,
+    "language": "GNU C++17",
+    "path": "codeforces\\1799\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Recent Actions",
+    "problem_url": "https://codeforces.com/contest/1799/problem/A",
+    "submission_id": "CF195141907",
+    "submission_url": "https://codeforces.com/contest/1799/submission/195141907",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/27/2023 20:15"
+  },
   "CF195171854": {
     "contest_id": 1799,
     "language": "GNU C++17",
