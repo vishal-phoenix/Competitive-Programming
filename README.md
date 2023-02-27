@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-45 | [B - Equalize by Divide](https://codeforces.com/contest/1799/problem/B) | [GNU C++17](./codeforces/1799/B.cpp) | `brute force` `constructive algorithms` `greedy` `math` | Feb/27/2023 21:47 | 
-44 | [A - Recent Actions](https://codeforces.com/contest/1799/problem/A) | [GNU C++17](./codeforces/1799/A.cpp) | `data structures` `greedy` `implementation` `math` | Feb/27/2023 20:15 | 
-43 | [D - Matryoshkas](https://codeforces.com/contest/1790/problem/D) | [GNU C++17](./codeforces/1790/D.cpp) | `data structures` `greedy` `sortings` `*1200` | Feb/27/2023 16:49 | 
+46 | [B - Equalize by Divide](https://codeforces.com/contest/1799/problem/B) | [GNU C++17](./codeforces/1799/B.cpp) | `brute force` `constructive algorithms` `greedy` `math` | Feb/27/2023 21:47 | 
+45 | [A - Recent Actions](https://codeforces.com/contest/1799/problem/A) | [GNU C++17](./codeforces/1799/A.cpp) | `data structures` `greedy` `implementation` `math` | Feb/27/2023 20:15 | 
+44 | [D - Matryoshkas](https://codeforces.com/contest/1790/problem/D) | [GNU C++17](./codeforces/1790/D.cpp) | `data structures` `greedy` `sortings` `*1200` | Feb/27/2023 16:49 | 
+43 | [C - Min Max Sort](https://codeforces.com/contest/1792/problem/C) | [GNU C++17](./codeforces/1792/C.cpp) | `binary search` `brute force` `greedy` `math` `two pointers` `*1500` | Feb/27/2023 15:17 | 
 42 | [B - Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | [GNU C++17](./codeforces/1789/B.cpp) | `implementation` `strings` | Feb/25/2023 20:13 | 
 41 | [A - Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | [GNU C++17](./codeforces/1789/A.cpp) | `brute force` `math` `number theory` | Feb/25/2023 20:03 | 
 40 | [A - Parallel Projection](https://codeforces.com/contest/1781/problem/A) | [GNU C++17](./codeforces/1781/A.cpp) | `geometry` `math` `*800` | Feb/24/2023 23:48 | 
