@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-53 | [A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | [GNU C++17](./codeforces/1762/A.cpp) | `greedy` `math` `number theory` `*800` | Mar/05/2023 23:02 | 
+54 | [A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | [GNU C++17](./codeforces/1762/A.cpp) | `greedy` `math` `number theory` `*800` | Mar/05/2023 23:02 | 
+53 | [C - Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | [GNU C++17](./codeforces/1794/C.cpp) | `binary search` `greedy` `math` `two pointers` | Mar/05/2023 00:35 | 
 52 | [C1 - Powering the Hero (easy version)](https://codeforces.com/contest/1800/problem/C1) | [GNU C++17](./codeforces/1800/C1.cpp) | `data structures` `greedy` | Mar/02/2023 21:02 | 
 51 | [C2 - Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2) | [GNU C++17](./codeforces/1800/C2.cpp) | `data structures` `greedy` | Mar/02/2023 21:02 | 
 50 | [A - Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | [GNU C++17](./codeforces/1800/A.cpp) | `implementation` `strings` | Mar/02/2023 20:15 | 
