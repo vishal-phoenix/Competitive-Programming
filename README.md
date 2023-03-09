@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-60 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++17](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Mar/13/2023 20:46 | 
-59 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C++17](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Mar/11/2023 23:47 | 
-58 | [A - Increasing Sequence](https://codeforces.com/contest/11/problem/A) | [GNU C++17](./codeforces/11/A.cpp) | `constructive algorithms` `implementation` `math` `*900` | Mar/10/2023 22:46 | 
+61 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++17](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Mar/13/2023 20:46 | 
+60 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C++17](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Mar/11/2023 23:47 | 
+59 | [A - Increasing Sequence](https://codeforces.com/contest/11/problem/A) | [GNU C++17](./codeforces/11/A.cpp) | `constructive algorithms` `implementation` `math` `*900` | Mar/10/2023 22:46 | 
+58 | [A - Second Order Statistics](https://codeforces.com/contest/22/problem/A) | [GNU C++17](./codeforces/22/A.cpp) | `brute force` `*800` | Mar/09/2023 20:19 | 
 57 | [A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | [GNU C++17](./codeforces/1762/A.cpp) | `greedy` `math` `number theory` `*800` | Mar/05/2023 23:02 | 
 56 | [C - Scoring Subsequences](https://codeforces.com/contest/1794/problem/C) | [GNU C++17](./codeforces/1794/C.cpp) | `binary search` `greedy` `math` `two pointers` | Mar/05/2023 00:35 | 
 55 | [B - Not Dividing](https://codeforces.com/contest/1794/problem/B) | [GNU C++17](./codeforces/1794/B.cpp) | `constructive algorithms` `greedy` `math` | Mar/04/2023 23:30 | 
