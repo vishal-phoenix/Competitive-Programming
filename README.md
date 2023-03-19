@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-65 | [G2 - Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | [GNU C++17](./codeforces/1807/G2.cpp) | `data structures` `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:29 | 
-64 | [G1 - Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | [GNU C++17](./codeforces/1807/G1.cpp) | `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:17 | 
+66 | [G2 - Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | [GNU C++17](./codeforces/1807/G2.cpp) | `data structures` `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:29 | 
+65 | [G1 - Subsequence Addition (Easy Version)](https://codeforces.com/contest/1807/problem/G1) | [GNU C++17](./codeforces/1807/G1.cpp) | `dp` `greedy` `implementation` `sortings` | Mar/19/2023 21:17 | 
+64 | [D - Odd Queries](https://codeforces.com/contest/1807/problem/D) | [GNU C++17](./codeforces/1807/D.cpp) | `data structures` `implementation` | Mar/19/2023 20:55 | 
 63 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [GNU C++17](./codeforces/6/A.cpp) | `brute force` `geometry` `*900` | Mar/13/2023 20:46 | 
 62 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C++17](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Mar/11/2023 23:47 | 
 61 | [A - Increasing Sequence](https://codeforces.com/contest/11/problem/A) | [GNU C++17](./codeforces/11/A.cpp) | `constructive algorithms` `implementation` `math` `*900` | Mar/10/2023 22:46 | 
