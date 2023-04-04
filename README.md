@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-78 | [C - Search in Parallel](https://codeforces.com/contest/1814/problem/C) | [GNU C++17](./codeforces/1814/C.cpp) | `greedy` `math` `sortings` | Apr/06/2023 21:37 | 
-77 | [A - Coins](https://codeforces.com/contest/1814/problem/A) | [GNU C++17](./codeforces/1814/A.cpp) | `math` | Apr/06/2023 20:09 | 
-76 | [D - Umka and a Long Flight](https://codeforces.com/contest/1811/problem/D) | [GNU C++17](./codeforces/1811/D.cpp) | `constructive algorithms` `implementation` `math` | Apr/04/2023 21:43 | 
+79 | [C - Search in Parallel](https://codeforces.com/contest/1814/problem/C) | [GNU C++17](./codeforces/1814/C.cpp) | `greedy` `math` `sortings` | Apr/06/2023 21:37 | 
+78 | [A - Coins](https://codeforces.com/contest/1814/problem/A) | [GNU C++17](./codeforces/1814/A.cpp) | `math` | Apr/06/2023 20:09 | 
+77 | [D - Umka and a Long Flight](https://codeforces.com/contest/1811/problem/D) | [GNU C++17](./codeforces/1811/D.cpp) | `constructive algorithms` `implementation` `math` | Apr/04/2023 21:43 | 
+76 | [C - Restore the Array](https://codeforces.com/contest/1811/problem/C) | [GNU C++17](./codeforces/1811/C.cpp) | `constructive algorithms` `greedy` | Apr/04/2023 21:25 | 
 75 | [A - Showstopper](https://codeforces.com/contest/1798/problem/A) | [GNU C++17](./codeforces/1798/A.cpp) | `greedy` `implementation` `sortings` | Mar/26/2023 23:38 | 
 74 | [B - Three Sevens](https://codeforces.com/contest/1798/problem/B) | [GNU C++17](./codeforces/1798/B.cpp) | `brute force` `greedy` `implementation` | Mar/26/2023 23:37 | 
 73 | [A - Garland](https://codeforces.com/contest/1809/problem/A) | [GNU C++17](./codeforces/1809/A.cpp) | `implementation` `*800` | Mar/24/2023 19:03 | 
