@@ -1290,5 +1290,22 @@
       "sortings"
     ],
     "timestamp": "Mar/26/2023 23:38"
+  },
+  "CF201041388": {
+    "contest_id": 1814,
+    "language": "GNU C++17",
+    "path": "codeforces\\1814\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Search in Parallel",
+    "problem_url": "https://codeforces.com/contest/1814/problem/C",
+    "submission_id": "CF201041388",
+    "submission_url": "https://codeforces.com/contest/1814/submission/201041388",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Apr/06/2023 21:37"
   }
 }
