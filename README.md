@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+82 | [B - Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | [GNU C++17](./codeforces/1797/B.cpp) | `constructive algorithms` `greedy` | Apr/08/2023 21:25 | 
 81 | [C - Search in Parallel](https://codeforces.com/contest/1814/problem/C) | [GNU C++17](./codeforces/1814/C.cpp) | `greedy` `math` `sortings` | Apr/06/2023 21:37 | 
 80 | [A - Coins](https://codeforces.com/contest/1814/problem/A) | [GNU C++17](./codeforces/1814/A.cpp) | `math` | Apr/06/2023 20:09 | 
 79 | [D - Umka and a Long Flight](https://codeforces.com/contest/1811/problem/D) | [GNU C++17](./codeforces/1811/D.cpp) | `constructive algorithms` `implementation` `math` | Apr/04/2023 21:43 | 
