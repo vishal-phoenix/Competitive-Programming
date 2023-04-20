@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-103 | [B - XOR = Average](https://codeforces.com/contest/1758/problem/B) | [GNU C++17](./codeforces/1758/B.cpp) | `constructive algorithms` `*900` | Apr/23/2023 22:16 | 
-102 | [B - BAN BAN](https://codeforces.com/contest/1747/problem/B) | [GNU C++17](./codeforces/1747/B.cpp) | `constructive algorithms` `*900` | Apr/23/2023 21:43 | 
-101 | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++17](./codeforces/1742/C.cpp) | `implementation` `*900` | Apr/23/2023 21:23 | 
-100 | [A - Ela Sorting Books](https://codeforces.com/contest/1737/problem/A) | [GNU C++17](./codeforces/1737/A.cpp) | `greedy` `implementation` `strings` `*900` | Apr/23/2023 21:06 | 
-99 | [B - Rule of League](https://codeforces.com/contest/1733/problem/B) | [GNU C++17](./codeforces/1733/B.cpp) | `constructive algorithms` `math` `*900` | Apr/22/2023 10:20 | 
-98 | [B - Ugu](https://codeforces.com/contest/1732/problem/B) | [GNU C++17](./codeforces/1732/B.cpp) | `brute force` `dp` `greedy` `implementation` `*900` | Apr/22/2023 10:06 | 
-97 | [A - Mainak and Array](https://codeforces.com/contest/1726/problem/A) | [GNU C++17](./codeforces/1726/A.cpp) | `greedy` `math` `*900` | Apr/22/2023 01:14 | 
-96 | [A - Burenka Plays with Fractions](https://codeforces.com/contest/1720/problem/A) | [GNU C++17](./codeforces/1720/A.cpp) | `math` `number theory` `*900` | Apr/22/2023 00:56 | 
-95 | [A - Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | [GNU C++17](./codeforces/1714/A.cpp) | `implementation` `math` `*900` | Apr/22/2023 00:43 | 
-94 | [B - Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | [GNU C++17](./codeforces/1709/B.cpp) | `data structures` `dp` `implementation` `*900` | Apr/22/2023 00:25 | 
-93 | [B - Emordnilap](https://codeforces.com/contest/1777/problem/B) | [GNU C++17](./codeforces/1777/B.cpp) | `combinatorics` `greedy` `math` `*900` | Apr/21/2023 22:39 | 
-92 | [B - MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B) | [GNU C++17](./codeforces/1779/B.cpp) | `constructive algorithms` `math` `*900` | Apr/21/2023 22:29 | 
+104 | [B - XOR = Average](https://codeforces.com/contest/1758/problem/B) | [GNU C++17](./codeforces/1758/B.cpp) | `constructive algorithms` `*900` | Apr/23/2023 22:16 | 
+103 | [B - BAN BAN](https://codeforces.com/contest/1747/problem/B) | [GNU C++17](./codeforces/1747/B.cpp) | `constructive algorithms` `*900` | Apr/23/2023 21:43 | 
+102 | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++17](./codeforces/1742/C.cpp) | `implementation` `*900` | Apr/23/2023 21:23 | 
+101 | [A - Ela Sorting Books](https://codeforces.com/contest/1737/problem/A) | [GNU C++17](./codeforces/1737/A.cpp) | `greedy` `implementation` `strings` `*900` | Apr/23/2023 21:06 | 
+100 | [B - Rule of League](https://codeforces.com/contest/1733/problem/B) | [GNU C++17](./codeforces/1733/B.cpp) | `constructive algorithms` `math` `*900` | Apr/22/2023 10:20 | 
+99 | [B - Ugu](https://codeforces.com/contest/1732/problem/B) | [GNU C++17](./codeforces/1732/B.cpp) | `brute force` `dp` `greedy` `implementation` `*900` | Apr/22/2023 10:06 | 
+98 | [A - Mainak and Array](https://codeforces.com/contest/1726/problem/A) | [GNU C++17](./codeforces/1726/A.cpp) | `greedy` `math` `*900` | Apr/22/2023 01:14 | 
+97 | [A - Burenka Plays with Fractions](https://codeforces.com/contest/1720/problem/A) | [GNU C++17](./codeforces/1720/A.cpp) | `math` `number theory` `*900` | Apr/22/2023 00:56 | 
+96 | [A - Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | [GNU C++17](./codeforces/1714/A.cpp) | `implementation` `math` `*900` | Apr/22/2023 00:43 | 
+95 | [B - Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | [GNU C++17](./codeforces/1709/B.cpp) | `data structures` `dp` `implementation` `*900` | Apr/22/2023 00:25 | 
+94 | [B - Emordnilap](https://codeforces.com/contest/1777/problem/B) | [GNU C++17](./codeforces/1777/B.cpp) | `combinatorics` `greedy` `math` `*900` | Apr/21/2023 22:39 | 
+93 | [B - MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B) | [GNU C++17](./codeforces/1779/B.cpp) | `constructive algorithms` `math` `*900` | Apr/21/2023 22:29 | 
+92 | [C - Tear It Apart](https://codeforces.com/contest/1821/problem/C) | [GNU C++17](./codeforces/1821/C.cpp) | `brute force` `implementation` `math` `strings` | Apr/20/2023 21:15 | 
 91 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [GNU C++17](./codeforces/1816/A.cpp) | `constructive algorithms` `geometry` `number theory` `*800` | Apr/18/2023 15:20 | 
 90 | [B - Candies](https://codeforces.com/contest/1810/problem/B) | [GNU C++17](./codeforces/1810/B.cpp) | `constructive algorithms` `math` `number theory` `*800` | Apr/18/2023 14:18 | 
 89 | [A - Beautiful Sequence](https://codeforces.com/contest/1810/problem/A) | [GNU C++17](./codeforces/1810/A.cpp) | `brute force` `greedy` `*800` | Apr/18/2023 14:09 | 
