@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-119 | [B - Indivisible](https://codeforces.com/contest/1818/problem/B) | [GNU C++17](./codeforces/1818/B.cpp) | `constructive algorithms` | Apr/29/2023 20:43 | 
-118 | [A - Politics](https://codeforces.com/contest/1818/problem/A) | [GNU C++17](./codeforces/1818/A.cpp) | `greedy` `implementation` | Apr/29/2023 20:26 | 
-117 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++17](./codeforces/1770/A.cpp) | `brute force` `greedy` `*1000` | Apr/27/2023 23:50 | 
-116 | [B - Sort with Step](https://codeforces.com/contest/1823/problem/B) | [GNU C++17](./codeforces/1823/B.cpp) | `brute force` `math` `sortings` | Apr/27/2023 23:12 | 
-115 | [A - A-characteristic](https://codeforces.com/contest/1823/problem/A) | [GNU C++17](./codeforces/1823/A.cpp) | `combinatorics` `constructive algorithms` `math` | Apr/27/2023 23:01 | 
-114 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [GNU C++17](./codeforces/1816/B.cpp) | `constructive algorithms` `greedy` `*1000` | Apr/26/2023 14:27 | 
-113 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++17](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `*900` | Apr/26/2023 12:01 | 
-112 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [GNU C++17](./codeforces/1768/B.cpp) | `greedy` `math` `*900` | Apr/26/2023 11:53 | 
-111 | [B - Death's Blessing](https://codeforces.com/contest/1749/problem/B) | [GNU C++17](./codeforces/1749/B.cpp) | `greedy` `*900` | Apr/25/2023 22:01 | 
-110 | [B - Tea with Tangerines](https://codeforces.com/contest/1735/problem/B) | [GNU C++17](./codeforces/1735/B.cpp) | `greedy` `math` `*900` | Apr/25/2023 21:47 | 
-109 | [A - Hossam and Combinatorics](https://codeforces.com/contest/1771/problem/A) | [GNU C++17](./codeforces/1771/A.cpp) | `combinatorics` `math` `sortings` `*900` | Apr/25/2023 21:30 | 
-108 | [D - Super-Permutation](https://codeforces.com/contest/1822/problem/D) | [GNU C++17](./codeforces/1822/D.cpp) | `constructive algorithms` `math` | Apr/24/2023 21:34 | 
+120 | [B - Indivisible](https://codeforces.com/contest/1818/problem/B) | [GNU C++17](./codeforces/1818/B.cpp) | `constructive algorithms` | Apr/29/2023 20:43 | 
+119 | [A - Politics](https://codeforces.com/contest/1818/problem/A) | [GNU C++17](./codeforces/1818/A.cpp) | `greedy` `implementation` | Apr/29/2023 20:26 | 
+118 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++17](./codeforces/1770/A.cpp) | `brute force` `greedy` `*1000` | Apr/27/2023 23:50 | 
+117 | [B - Sort with Step](https://codeforces.com/contest/1823/problem/B) | [GNU C++17](./codeforces/1823/B.cpp) | `brute force` `math` `sortings` | Apr/27/2023 23:12 | 
+116 | [A - A-characteristic](https://codeforces.com/contest/1823/problem/A) | [GNU C++17](./codeforces/1823/A.cpp) | `combinatorics` `constructive algorithms` `math` | Apr/27/2023 23:01 | 
+115 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [GNU C++17](./codeforces/1816/B.cpp) | `constructive algorithms` `greedy` `*1000` | Apr/26/2023 14:27 | 
+114 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++17](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `*900` | Apr/26/2023 12:01 | 
+113 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [GNU C++17](./codeforces/1768/B.cpp) | `greedy` `math` `*900` | Apr/26/2023 11:53 | 
+112 | [B - Death's Blessing](https://codeforces.com/contest/1749/problem/B) | [GNU C++17](./codeforces/1749/B.cpp) | `greedy` `*900` | Apr/25/2023 22:01 | 
+111 | [B - Tea with Tangerines](https://codeforces.com/contest/1735/problem/B) | [GNU C++17](./codeforces/1735/B.cpp) | `greedy` `math` `*900` | Apr/25/2023 21:47 | 
+110 | [A - Hossam and Combinatorics](https://codeforces.com/contest/1771/problem/A) | [GNU C++17](./codeforces/1771/A.cpp) | `combinatorics` `math` `sortings` `*900` | Apr/25/2023 21:30 | 
+109 | [D - Super-Permutation](https://codeforces.com/contest/1822/problem/D) | [GNU C++17](./codeforces/1822/D.cpp) | `constructive algorithms` `math` | Apr/24/2023 21:34 | 
+108 | [E - Making Anti-Palindromes](https://codeforces.com/contest/1822/problem/E) | [GNU C++17](./codeforces/1822/E.cpp) | `greedy` `math` `strings` | Apr/24/2023 21:17 | 
 107 | [B - XOR = Average](https://codeforces.com/contest/1758/problem/B) | [GNU C++17](./codeforces/1758/B.cpp) | `constructive algorithms` `*900` | Apr/23/2023 22:16 | 
 106 | [B - BAN BAN](https://codeforces.com/contest/1747/problem/B) | [GNU C++17](./codeforces/1747/B.cpp) | `constructive algorithms` `*900` | Apr/23/2023 21:43 | 
 105 | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++17](./codeforces/1742/C.cpp) | `implementation` `*900` | Apr/23/2023 21:23 | 
