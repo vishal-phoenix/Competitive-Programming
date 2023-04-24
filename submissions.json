@@ -1837,6 +1837,21 @@
     ],
     "timestamp": "Apr/23/2023 22:16"
   },
+  "CF203292323": {
+    "contest_id": 1822,
+    "language": "GNU C++17",
+    "path": "codeforces\\1822\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bun Lover",
+    "problem_url": "https://codeforces.com/contest/1822/problem/C",
+    "submission_id": "CF203292323",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203292323",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Apr/24/2023 20:43"
+  },
   "CF203313395": {
     "contest_id": 1822,
     "language": "GNU C++17",
