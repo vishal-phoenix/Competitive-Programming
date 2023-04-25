@@ -1837,6 +1837,24 @@
     ],
     "timestamp": "Apr/23/2023 22:16"
   },
+  "CF203460065": {
+    "contest_id": 1771,
+    "language": "GNU C++17",
+    "path": "codeforces\\1771\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hossam and Combinatorics",
+    "problem_url": "https://codeforces.com/contest/1771/problem/A",
+    "submission_id": "CF203460065",
+    "submission_url": "https://codeforces.com/contest/1771/submission/203460065",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/25/2023 21:30"
+  },
   "CF203462200": {
     "contest_id": 1735,
     "language": "GNU C++17",
