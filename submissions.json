@@ -1837,6 +1837,23 @@
     ],
     "timestamp": "Apr/23/2023 22:16"
   },
+  "CF203723207": {
+    "contest_id": 1823,
+    "language": "GNU C++17",
+    "path": "codeforces\\1823\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sort with Step",
+    "problem_url": "https://codeforces.com/contest/1823/problem/B",
+    "submission_id": "CF203723207",
+    "submission_url": "https://codeforces.com/contest/1823/submission/203723207",
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Apr/27/2023 23:12"
+  },
   "CF203726970": {
     "contest_id": 1770,
     "language": "GNU C++17",
