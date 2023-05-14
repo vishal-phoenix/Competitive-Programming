@@ -2102,6 +2102,23 @@
     ],
     "timestamp": "Apr/29/2023 20:43"
   },
+  "CF205847172": {
+    "contest_id": 1828,
+    "language": "GNU C++17",
+    "path": "codeforces\\1828\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divisible Array",
+    "problem_url": "https://codeforces.com/contest/1828/problem/A",
+    "submission_id": "CF205847172",
+    "submission_url": "https://codeforces.com/contest/1828/submission/205847172",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/14/2023 20:09"
+  },
   "CF205870130": {
     "contest_id": 1828,
     "language": "GNU C++17",
