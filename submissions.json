@@ -2102,6 +2102,23 @@
     ],
     "timestamp": "Apr/29/2023 20:43"
   },
+  "CF206462571": {
+    "contest_id": 1833,
+    "language": "GNU C++17",
+    "path": "codeforces\\1833\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Musical Puzzle",
+    "problem_url": "https://codeforces.com/contest/1833/problem/A",
+    "submission_id": "CF206462571",
+    "submission_url": "https://codeforces.com/contest/1833/submission/206462571",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/19/2023 20:10"
+  },
   "CF206489499": {
     "contest_id": 1833,
     "language": "GNU C++17",
