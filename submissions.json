@@ -2102,6 +2102,23 @@
     ],
     "timestamp": "Apr/29/2023 20:43"
   },
+  "CF209337823": {
+    "contest_id": 1831,
+    "language": "GNU C++17",
+    "path": "codeforces\\1831\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array merging",
+    "problem_url": "https://codeforces.com/contest/1831/problem/B",
+    "submission_id": "CF209337823",
+    "submission_url": "https://codeforces.com/contest/1831/submission/209337823",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jun/12/2023 09:49"
+  },
   "CF218984010": {
     "contest_id": 1857,
     "language": "GNU C++17",

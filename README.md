@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-126 | [B - Lamps](https://codeforces.com/contest/1839/problem/B) | [GNU C++17](./codeforces/1839/B.cpp) | `greedy` `sortings` `*1100` | Aug/16/2023 23:32 | 
-125 | [E - Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | [GNU C++17](./codeforces/1850/E.cpp) | `binary search` `geometry` `implementation` `math` `*1100` | Aug/15/2023 22:31 | 
-124 | [B - Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | [GNU C++17](./codeforces/1857/B.cpp) | `greedy` `implementation` `math` `*1100` | Aug/15/2023 21:32 | 
+127 | [B - Lamps](https://codeforces.com/contest/1839/problem/B) | [GNU C++17](./codeforces/1839/B.cpp) | `greedy` `sortings` `*1100` | Aug/16/2023 23:32 | 
+126 | [E - Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | [GNU C++17](./codeforces/1850/E.cpp) | `binary search` `geometry` `implementation` `math` `*1100` | Aug/15/2023 22:31 | 
+125 | [B - Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | [GNU C++17](./codeforces/1857/B.cpp) | `greedy` `implementation` `math` `*1100` | Aug/15/2023 21:32 | 
+124 | [B - Array merging](https://codeforces.com/contest/1831/problem/B) | [GNU C++17](./codeforces/1831/B.cpp) | `constructive algorithms` `greedy` `*1000` | Jun/12/2023 09:49 | 
 123 | [B - Indivisible](https://codeforces.com/contest/1818/problem/B) | [GNU C++17](./codeforces/1818/B.cpp) | `constructive algorithms` | Apr/29/2023 20:43 | 
 122 | [A - Politics](https://codeforces.com/contest/1818/problem/A) | [GNU C++17](./codeforces/1818/A.cpp) | `greedy` `implementation` | Apr/29/2023 20:26 | 
 121 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++17](./codeforces/1770/A.cpp) | `brute force` `greedy` `*1000` | Apr/27/2023 23:50 | 
