@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+124 | [B - Lamps](https://codeforces.com/contest/1839/problem/B) | [GNU C++17](./codeforces/1839/B.cpp) | `greedy` `sortings` `*1100` | Aug/16/2023 23:32 | 
 123 | [B - Indivisible](https://codeforces.com/contest/1818/problem/B) | [GNU C++17](./codeforces/1818/B.cpp) | `constructive algorithms` | Apr/29/2023 20:43 | 
 122 | [A - Politics](https://codeforces.com/contest/1818/problem/A) | [GNU C++17](./codeforces/1818/A.cpp) | `greedy` `implementation` | Apr/29/2023 20:26 | 
 121 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++17](./codeforces/1770/A.cpp) | `brute force` `greedy` `*1000` | Apr/27/2023 23:50 | 
